@@ -1,0 +1,6 @@
+Turn off music by pressing the large sound button, it is very annoying. 
+
+To run the program, please have c# installed, open the poker .sln file, then click the run button (>).
+
+The program runs best on 1366x768 (the resolution on most laptops). Running on other resolutions
+is fine, but some texual or graphic details may be out of place. 
