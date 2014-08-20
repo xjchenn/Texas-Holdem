@@ -52,7 +52,7 @@ namespace Poker_Game
         }
         private void btnCredits_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("By Jaden Chen and Charles Qi or Charles Qi and Jaden Chen"+"\rSpecial mention: Lady Gaga for Poker Face");
+            MessageBox.Show("By Jaden Chen and Charles Qi or Charles Qi and Jaden Chen");
         }
         private void btnExit_Click(object sender, EventArgs e)
         {
