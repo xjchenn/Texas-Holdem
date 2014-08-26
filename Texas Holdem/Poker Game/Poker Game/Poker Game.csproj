@@ -55,8 +55,7 @@
     <StartupObject>Poker_Game.Program</StartupObject>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="Holdem, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
+    <Reference Include="Holdem">
       <HintPath>..\..\Holdem\Holdem\bin\Debug\Holdem.dll</HintPath>
     </Reference>
     <Reference Include="PresentationCore" />

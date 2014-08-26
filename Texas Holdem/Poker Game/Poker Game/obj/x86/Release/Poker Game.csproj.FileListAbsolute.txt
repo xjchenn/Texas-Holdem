@@ -1,0 +1,17 @@
+C:\Users\Jaden\Documents\GitHub\Texas-Holdem\Texas Holdem\Poker Game\Poker Game\bin\Release\Poker Game.exe
+C:\Users\Jaden\Documents\GitHub\Texas-Holdem\Texas Holdem\Poker Game\Poker Game\bin\Release\Poker Game.pdb
+C:\Users\Jaden\Documents\GitHub\Texas-Holdem\Texas Holdem\Poker Game\Poker Game\bin\Release\Holdem.dll
+C:\Users\Jaden\Documents\GitHub\Texas-Holdem\Texas Holdem\Poker Game\Poker Game\bin\Release\Holdem.pdb
+C:\Users\Jaden\Documents\GitHub\Texas-Holdem\Texas Holdem\Poker Game\Poker Game\obj\x86\Release\Poker Game.csprojResolveAssemblyReference.cache
+C:\Users\Jaden\Documents\GitHub\Texas-Holdem\Texas Holdem\Poker Game\Poker Game\obj\x86\Release\Poker_Game.FormEndGame.resources
+C:\Users\Jaden\Documents\GitHub\Texas-Holdem\Texas Holdem\Poker Game\Poker Game\obj\x86\Release\Poker_Game.FormGameOptions.resources
+C:\Users\Jaden\Documents\GitHub\Texas-Holdem\Texas Holdem\Poker Game\Poker Game\obj\x86\Release\Poker_Game.FormGetMoney.resources
+C:\Users\Jaden\Documents\GitHub\Texas-Holdem\Texas Holdem\Poker Game\Poker Game\obj\x86\Release\Poker_Game.FormInformation.resources
+C:\Users\Jaden\Documents\GitHub\Texas-Holdem\Texas Holdem\Poker Game\Poker Game\obj\x86\Release\Poker_Game.FormLogin.resources
+C:\Users\Jaden\Documents\GitHub\Texas-Holdem\Texas Holdem\Poker Game\Poker Game\obj\x86\Release\Poker_Game.FormPoker.resources
+C:\Users\Jaden\Documents\GitHub\Texas-Holdem\Texas Holdem\Poker Game\Poker Game\obj\x86\Release\Poker_Game.FormRegister.resources
+C:\Users\Jaden\Documents\GitHub\Texas-Holdem\Texas Holdem\Poker Game\Poker Game\obj\x86\Release\Poker_Game.FormTitleScreen.resources
+C:\Users\Jaden\Documents\GitHub\Texas-Holdem\Texas Holdem\Poker Game\Poker Game\obj\x86\Release\Poker_Game.Properties.Resources.resources
+C:\Users\Jaden\Documents\GitHub\Texas-Holdem\Texas Holdem\Poker Game\Poker Game\obj\x86\Release\Poker Game.csproj.GenerateResource.Cache
+C:\Users\Jaden\Documents\GitHub\Texas-Holdem\Texas Holdem\Poker Game\Poker Game\obj\x86\Release\Poker Game.exe
+C:\Users\Jaden\Documents\GitHub\Texas-Holdem\Texas Holdem\Poker Game\Poker Game\obj\x86\Release\Poker Game.pdb

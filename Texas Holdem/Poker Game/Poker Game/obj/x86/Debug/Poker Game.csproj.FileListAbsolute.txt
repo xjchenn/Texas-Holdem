@@ -1,0 +1,17 @@
+C:\Users\Jaden\Documents\GitHub\Texas-Holdem\Texas Holdem\Poker Game\Poker Game\obj\x86\Debug\Poker Game.csprojResolveAssemblyReference.cache
+C:\Users\Jaden\Documents\GitHub\Texas-Holdem\Texas Holdem\Poker Game\Poker Game\obj\x86\Debug\Poker_Game.FormEndGame.resources
+C:\Users\Jaden\Documents\GitHub\Texas-Holdem\Texas Holdem\Poker Game\Poker Game\obj\x86\Debug\Poker_Game.FormGameOptions.resources
+C:\Users\Jaden\Documents\GitHub\Texas-Holdem\Texas Holdem\Poker Game\Poker Game\obj\x86\Debug\Poker_Game.FormGetMoney.resources
+C:\Users\Jaden\Documents\GitHub\Texas-Holdem\Texas Holdem\Poker Game\Poker Game\obj\x86\Debug\Poker_Game.FormInformation.resources
+C:\Users\Jaden\Documents\GitHub\Texas-Holdem\Texas Holdem\Poker Game\Poker Game\obj\x86\Debug\Poker_Game.FormLogin.resources
+C:\Users\Jaden\Documents\GitHub\Texas-Holdem\Texas Holdem\Poker Game\Poker Game\obj\x86\Debug\Poker_Game.FormPoker.resources
+C:\Users\Jaden\Documents\GitHub\Texas-Holdem\Texas Holdem\Poker Game\Poker Game\obj\x86\Debug\Poker_Game.FormRegister.resources
+C:\Users\Jaden\Documents\GitHub\Texas-Holdem\Texas Holdem\Poker Game\Poker Game\obj\x86\Debug\Poker_Game.FormTitleScreen.resources
+C:\Users\Jaden\Documents\GitHub\Texas-Holdem\Texas Holdem\Poker Game\Poker Game\obj\x86\Debug\Poker_Game.Properties.Resources.resources
+C:\Users\Jaden\Documents\GitHub\Texas-Holdem\Texas Holdem\Poker Game\Poker Game\obj\x86\Debug\Poker Game.csproj.GenerateResource.Cache
+C:\Users\Jaden\Documents\GitHub\Texas-Holdem\Texas Holdem\Poker Game\Poker Game\bin\Debug\Poker Game.exe
+C:\Users\Jaden\Documents\GitHub\Texas-Holdem\Texas Holdem\Poker Game\Poker Game\bin\Debug\Poker Game.pdb
+C:\Users\Jaden\Documents\GitHub\Texas-Holdem\Texas Holdem\Poker Game\Poker Game\bin\Debug\Holdem.dll
+C:\Users\Jaden\Documents\GitHub\Texas-Holdem\Texas Holdem\Poker Game\Poker Game\bin\Debug\Holdem.pdb
+C:\Users\Jaden\Documents\GitHub\Texas-Holdem\Texas Holdem\Poker Game\Poker Game\obj\x86\Debug\Poker Game.exe
+C:\Users\Jaden\Documents\GitHub\Texas-Holdem\Texas Holdem\Poker Game\Poker Game\obj\x86\Debug\Poker Game.pdb

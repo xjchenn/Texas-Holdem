@@ -1,0 +1,7 @@
+C:\Users\Jaden\Documents\GitHub\Texas-Holdem\Texas Holdem\Holdem\Holdem\bin\Debug\Holdem.dll
+C:\Users\Jaden\Documents\GitHub\Texas-Holdem\Texas Holdem\Holdem\Holdem\bin\Debug\Holdem.pdb
+C:\Users\Jaden\Documents\GitHub\Texas-Holdem\Texas Holdem\Holdem\Holdem\obj\Debug\Holdem.csprojResolveAssemblyReference.cache
+C:\Users\Jaden\Documents\GitHub\Texas-Holdem\Texas Holdem\Holdem\Holdem\obj\Debug\Holdem.Properties.Resources.resources
+C:\Users\Jaden\Documents\GitHub\Texas-Holdem\Texas Holdem\Holdem\Holdem\obj\Debug\Holdem.csproj.GenerateResource.Cache
+C:\Users\Jaden\Documents\GitHub\Texas-Holdem\Texas Holdem\Holdem\Holdem\obj\Debug\Holdem.dll
+C:\Users\Jaden\Documents\GitHub\Texas-Holdem\Texas Holdem\Holdem\Holdem\obj\Debug\Holdem.pdb
