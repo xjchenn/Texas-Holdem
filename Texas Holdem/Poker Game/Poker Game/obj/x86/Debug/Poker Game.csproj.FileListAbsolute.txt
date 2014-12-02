@@ -15,3 +15,5 @@ C:\Users\Jaden\Documents\GitHub\Texas-Holdem\Texas Holdem\Poker Game\Poker Game\
 C:\Users\Jaden\Documents\GitHub\Texas-Holdem\Texas Holdem\Poker Game\Poker Game\bin\Debug\Holdem.pdb
 C:\Users\Jaden\Documents\GitHub\Texas-Holdem\Texas Holdem\Poker Game\Poker Game\obj\x86\Debug\Poker Game.exe
 C:\Users\Jaden\Documents\GitHub\Texas-Holdem\Texas Holdem\Poker Game\Poker Game\obj\x86\Debug\Poker Game.pdb
+C:\Users\Living Room\Documents\GitHub\Texas-Holdem\Texas Holdem\Poker Game\Poker Game\obj\x86\Debug\Poker Game.exe
+C:\Users\Living Room\Documents\GitHub\Texas-Holdem\Texas Holdem\Poker Game\Poker Game\obj\x86\Debug\Poker Game.pdb

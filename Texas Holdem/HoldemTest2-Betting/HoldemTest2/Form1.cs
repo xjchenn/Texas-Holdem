@@ -69,14 +69,15 @@ namespace HoldemTest2
 
         private void button12_Click(object sender, EventArgs e)
         {
-            pokerTable.PayBlinds();
+            pokerTable.PayBigBlind();
+            pokerTable.PaySmallBlind();
             nudBetRaise.Minimum = pokerTable.getPot().MinimumRaise;
             Print();
         }
 
         private void button13_Click(object sender, EventArgs e)
         {
-            pokerTable.startNextRound();
+            pokerTable.startNextMatch();
             Print();
         }
 
