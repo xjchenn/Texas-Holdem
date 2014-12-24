@@ -1,0 +1,9 @@
+C:\Users\Living Room\Documents\GitHub\Texas-Holdem\Texas Holdem\HoldemTest2-Betting\HoldemTest2\obj\x86\Debug\HoldemTest2.Form1.resources
+C:\Users\Living Room\Documents\GitHub\Texas-Holdem\Texas Holdem\HoldemTest2-Betting\HoldemTest2\obj\x86\Debug\HoldemTest2.Properties.Resources.resources
+C:\Users\Living Room\Documents\GitHub\Texas-Holdem\Texas Holdem\HoldemTest2-Betting\HoldemTest2\obj\x86\Debug\HoldemTest2.csproj.GenerateResource.Cache
+C:\Users\Living Room\Documents\GitHub\Texas-Holdem\Texas Holdem\HoldemTest2-Betting\HoldemTest2\bin\Debug\HoldemTest2.exe
+C:\Users\Living Room\Documents\GitHub\Texas-Holdem\Texas Holdem\HoldemTest2-Betting\HoldemTest2\bin\Debug\HoldemTest2.pdb
+C:\Users\Living Room\Documents\GitHub\Texas-Holdem\Texas Holdem\HoldemTest2-Betting\HoldemTest2\bin\Debug\Holdem.dll
+C:\Users\Living Room\Documents\GitHub\Texas-Holdem\Texas Holdem\HoldemTest2-Betting\HoldemTest2\bin\Debug\Holdem.pdb
+C:\Users\Living Room\Documents\GitHub\Texas-Holdem\Texas Holdem\HoldemTest2-Betting\HoldemTest2\obj\x86\Debug\HoldemTest2.exe
+C:\Users\Living Room\Documents\GitHub\Texas-Holdem\Texas Holdem\HoldemTest2-Betting\HoldemTest2\obj\x86\Debug\HoldemTest2.pdb
